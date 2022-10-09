@@ -8,3 +8,15 @@ h1 {
     font-size: 3rem;
     color: blue;
 }
+
+#caixa {
+    color: red;
+    height: 2cm;
+    width: 2cm;
+}
+
+input {
+    color: black;
+    margin-left: 20px;
+    margin-top: 30px;
+}
